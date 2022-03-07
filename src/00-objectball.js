@@ -60,8 +60,8 @@ function gameObject() {
       away:{
         teamName:`Charlotte Hornets` , 
         colors: [`Turquoise`, `Purple`], 
-        players: [
-              { name: `Jeff Adrien`,
+        players: {
+              `Jeff Adrien` {
                 number: 4,
                 shoe: 18,
                 points: 10,
@@ -71,7 +71,7 @@ function gameObject() {
                 blocks: 7,
                 slamDunks: 2,
               },
-              { name: `Bismak Biyombo`,
+            `Bismak Biyombo`{
                 number: 0,
                 shoe: 16,
                 points: 12,
@@ -80,8 +80,8 @@ function gameObject() {
                 steals: 7,
                 blocks: 15,
                 slamDunks: 10,        
-              }
-              { name: `DeSagna Diopp`,
+              },
+            `DeSagna Diopp`{
                 number: 2,
                 shoe: 14,
                 points: 24,
@@ -90,8 +90,8 @@ function gameObject() {
                 steals: 4,
                 blocks: 5,
                 slamDunks: 5,        
-              }
-              { name: `Ben Gordon`,
+              },
+            `Ben Gordon`{
                 number: 8,
                 shoe: 15,
                 points: 33,
@@ -100,8 +100,8 @@ function gameObject() {
                 steals: 1,
                 blocks: 1,
                 slamDunks: 0,        
-              }
-              { name: `Brendan Haywood`,
+              },
+              `Brendan Haywood`{
                 number: 33,
                 shoe: 15,
                 points: 6,
@@ -110,8 +110,8 @@ function gameObject() {
                 steals: 22,
                 blocks: 5,
                 slamDunks: 12,        
-                }
-        ] 
+                },
+            } 
     }
 }
     }
