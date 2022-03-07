@@ -1,10 +1,10 @@
 function gameObject() {
     return {
       home: {
-        teamName:`Brooklyn Nets` , 
-        colors: [`Black`, `White`], 
+        teamName:"Brooklyn Nets" , 
+        colors: ["Black", "White"], 
         players: {
-            `Alan Anderson`: {
+            "Alan Anderson": {
                 number: 0,
                 shoe: 16,
                 points: 22,
@@ -14,7 +14,7 @@ function gameObject() {
                 blocks: 1,
                 slamDunks: 1,
                 },
-              `Reggie Evans`: {
+              "Reggie Evans": {
                 number: 30,
                 shoe: 14,
                 points: 12,
@@ -24,7 +24,7 @@ function gameObject() {
                 blocks: 12,
                 slamDunks: 7,        
                 },
-              `Brook Lopez`: {
+              "Brook Lopez": {
                 number: 11,
                 shoe: 17,
                 points: 17,
@@ -34,7 +34,7 @@ function gameObject() {
                 blocks: 1,
                 slamDunks: 15,        
                 },
-              `Mason Plumlee`: {
+              "Mason Plumlee": {
                 number: 1,
                 shoe: 19,
                 points: 26,
@@ -44,7 +44,7 @@ function gameObject() {
                 blocks: 8,
                 slamDunks: 5,        
                 },
-              `Jason Terry`: {
+              "Jason Terry": {
                 number: 31,
                 shoe: 15,
                 points: 19,
@@ -58,10 +58,10 @@ function gameObject() {
             },
 
       away:{
-        teamName:`Charlotte Hornets` , 
-        colors: [`Turquoise`, `Purple`], 
+        teamName:"Charlotte Hornets" , 
+        colors: ["Turquoise", "Purple"], 
         players: {
-              `Jeff Adrien` {
+              "Jeff Adrien": {
                 number: 4,
                 shoe: 18,
                 points: 10,
@@ -71,7 +71,7 @@ function gameObject() {
                 blocks: 7,
                 slamDunks: 2,
               },
-            `Bismak Biyombo`{
+            "Bismak Biyombo": {
                 number: 0,
                 shoe: 16,
                 points: 12,
@@ -81,7 +81,7 @@ function gameObject() {
                 blocks: 15,
                 slamDunks: 10,        
               },
-            `DeSagna Diopp`{
+            "DeSagna Diopp": {
                 number: 2,
                 shoe: 14,
                 points: 24,
@@ -91,7 +91,7 @@ function gameObject() {
                 blocks: 5,
                 slamDunks: 5,        
               },
-            `Ben Gordon`{
+            "Ben Gordon": {
                 number: 8,
                 shoe: 15,
                 points: 33,
@@ -101,7 +101,7 @@ function gameObject() {
                 blocks: 1,
                 slamDunks: 0,        
               },
-              `Brendan Haywood`{
+              "Brendan Haywood": {
                 number: 33,
                 shoe: 15,
                 points: 6,
